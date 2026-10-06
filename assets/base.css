@@ -4217,3 +4217,7 @@ product-recommendations:has([data-has-recommendations='false']) {
 .product-title{
   text-align: center;
 }
+
+#MainContent[data-template="index"] .section-background {
+  background-color: yellow;
+}
