@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="520" height="600" viewBox="0 0 520 600" role="img" aria-labelledby="title desc">
+<title id="title">QuantumCore battery product illustration</title><desc id="desc">Studio product illustration of a QuantumCore Li-POLY battery.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EFF5"/></linearGradient><filter id="shadow" x="-30%" y="-20%" width="160%" height="180%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#16202C" flood-opacity=".2"/></filter></defs>
+<rect width="520" height="600" rx="34" fill="url(#bg)"/><ellipse cx="260" cy="505" rx="144" ry="23" fill="#344054" fill-opacity=".13"/>
+<g filter="url(#shadow)"><path d="m150 139 25-30h170l25 30-15 313q-2 24-26 24H191q-24 0-26-24l-15-313Z" fill="#1D2939"/><path d="m171 151 14-20h150l14 20-12 278H183l-12-278Z" fill="#F472B6"/><path d="M184 169h152" stroke="#FFFFFF" stroke-opacity=".48" stroke-width="8" stroke-linecap="round"/><path d="M185 438h150" stroke="#475467" stroke-width="8"/><path d="M202 109V88m116 21V88" stroke="#98A2B3" stroke-width="9" stroke-linecap="round"/></g>
+<text x="260" y="535" text-anchor="middle" fill="#17202B" font-family="Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="2">QuantumCore</text><text x="260" y="563" text-anchor="middle" fill="#BE185D" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">ULTRA SLIM</text>
+</svg>

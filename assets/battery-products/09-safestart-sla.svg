@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="520" height="600" viewBox="0 0 520 600" role="img" aria-labelledby="title desc">
+<title id="title">SafeStart battery product illustration</title><desc id="desc">Studio product illustration of a SafeStart SLA battery.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E9EFF5"/></linearGradient><filter id="shadow" x="-30%" y="-20%" width="160%" height="180%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#16202C" flood-opacity=".2"/></filter></defs>
+<rect width="520" height="600" rx="34" fill="url(#bg)"/><ellipse cx="260" cy="505" rx="144" ry="23" fill="#344054" fill-opacity=".13"/>
+<g filter="url(#shadow)"><rect x="116" y="163" width="288" height="300" rx="28" fill="#1D2939"/><path d="M142 161v-27q0-18 18-18h200q18 0 18 18v27" fill="#475467"/><rect x="159" y="211" width="202" height="143" rx="15" fill="#60A5FA"/><path d="M180 243h160M180 262h115" stroke="#FFFFFF" stroke-opacity=".58" stroke-width="8" stroke-linecap="round"/><rect x="152" y="382" width="216" height="45" rx="12" fill="#263445"/><circle cx="184" cy="405" r="7" fill="#60A5FA"/><circle cx="216" cy="405" r="7" fill="#60A5FA"/></g>
+<text x="260" y="535" text-anchor="middle" fill="#17202B" font-family="Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="2">SafeStart</text><text x="260" y="563" text-anchor="middle" fill="#1D4ED8" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">BACKUP POWER</text>
+</svg>
